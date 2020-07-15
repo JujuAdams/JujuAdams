@@ -1,4 +1,4 @@
-### I make GameMaker libraries 🌟
+<h2 align="center">I make GameMaker libraries 🌟</h2>
 
 You might know me from [my commerical work](http://www.jujuadams.com/) or [one of the talks I gave](https://www.youtube.com/watch?v=Uj7nr6vSRvs). I spend my free time making libraries to help GameMaker developers make better, more robust games. Here're the highlights:
 
