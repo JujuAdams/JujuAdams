@@ -17,5 +17,5 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
 |[Computational Geometry](https://github.com/JujuAdams/computational-geometry)<br>Very old example of geometry in GameMaker!|[Blurs](https://github.com/JujuAdams/blurs)<br>Handful of simple blur effects|
 |[dFdx/dFdy/fwidth](https://github.com/JujuAdams/GL_OES_standard_derivatives)<br>GL_OES derivatives fo GLSL ES|[gl_FragDepth](https://github.com/JujuAdams/gl_FragDepthEXT)<br>How to enable `gl_FragDepth` in GLSL ES|
 |[Quaternions](https://github.com/JujuAdams/basic-quaternions)<br>Simple quaternion library|[Matrices](https://github.com/JujuAdams/matrices)<br>Common matric functions|
-|[Shockwaves](https://github.com/JujuAdams/Shockwave)<br>Shader-based distortion effect|[Delaunay Triangulation](https://github.com/JujuAdams/delaunay)<br>Old example on Delaunay triangulation, with pathfinding|
+|[Shockwaves](https://github.com/JujuAdams/Shockwave)<br>Shader-based distortion effect|[Delaunay Triangulation](https://github.com/JujuAdams/delaunay)<br>Old example of Delaunay triangulation, with pathfinding|
 |[Scramble](https://github.com/JujuAdams/Scramble)<br>Graphics obfuscation tool|[LUT](https://github.com/JujuAdams/LUT)<br>Commonly used for colour grading|
