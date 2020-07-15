@@ -1,16 +1,15 @@
-### Hi there 👋
+### I make GameMaker libraries 🌟
 
-<!--
-**JujuAdams/JujuAdams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You might know me from [my commerical work](http://www.jujuadams.com/) or [one of the talks I gave](https://www.youtube.com/watch?v=Uj7nr6vSRvs). I spend my free time making libraries to help GameMaker developers make better, more robust games. Here're the highlights:
 
-Here are some ideas to get you started:
+[Scribble](https://github.com/JujuAdams/scribble)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Input](https://github.com/JujuAdams/input)
+
+[dotobj](https://github.com/JujuAdams/dotobj)
+
+[DoLater](https://github.com/JujuAdams/DoLater)
+
+[SNAP](https://github.com/JujuAdams/SNAP)
+
+[YAILSE](https://github.com/JujuAdams/YAILSE)
