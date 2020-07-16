@@ -4,7 +4,7 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
 
 **Here're the highlights:**
 
-|                                                                                 |                                                                                          |
+|✨✨✨✨✨✨✨✨✨✨|✨✨✨✨✨✨✨✨✨✨|
 |---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 |[Scribble](https://github.com/JujuAdams/scribble)<br>Powerful, fully featured text renderer|[Input](https://github.com/JujuAdams/input)<br>Unified gamepad/mouse/keyboard input system|
 |[dotobj](https://github.com/JujuAdams/dotobj)<br>Comprehensive .obj importer|[DoLater](https://github.com/JujuAdams/DoLater)<br>Deferred function execution|
