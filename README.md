@@ -17,3 +17,5 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
 |[Quaternions](https://github.com/JujuAdams/basic-quaternions)<br>Simple quaternion library|[Matrices](https://github.com/JujuAdams/matrices)<br>Common matrix functions|
 |[Shockwaves](https://github.com/JujuAdams/Shockwave)<br>Shader-based distortion effect|[Delaunay Triangulation](https://github.com/JujuAdams/delaunay)<br>Includes pathfinding|
 |[Scramble](https://github.com/JujuAdams/Scramble)<br>Graphics obfuscation tool|[LUT](https://github.com/JujuAdams/LUT)<br>Commonly used for colour grading|
+
+&nbsp;
