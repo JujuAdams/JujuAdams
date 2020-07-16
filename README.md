@@ -1,4 +1,4 @@
-<h2 align="center">🌟 I make GameMaker libraries 🌟</h2>
+<h2 align="center">☄️️ I make GameMaker libraries 🌠</h2>
 
 You might know me from [my commerical work](http://www.jujuadams.com/) or [one of the talks I gave](https://www.youtube.com/watch?v=Uj7nr6vSRvs), but I spend my free time making libraries to help GameMaker developers build better games. You can find me on [Twitter](https://twitter.com/jujuadams) or in my [Discord server](https://discord.gg/8krYCqr).
 
