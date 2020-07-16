@@ -6,7 +6,7 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
 |---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 |[Scribble](https://github.com/JujuAdams/scribble)<br>Powerful, fully featured text renderer|[Input](https://github.com/JujuAdams/input)<br>Unified gamepad/mouse/keyboard input system|
 |[dotobj](https://github.com/JujuAdams/dotobj)<br>Comprehensive .obj importer|[DoLater](https://github.com/JujuAdams/DoLater)<br>Deferred function execution|
-|[SNAP](https://github.com/JujuAdams/SNAP)<br>Struct and array export/import and utilities|[YAILSE](https://github.com/JujuAdams/YAILSE)<br>Best-in-class shadow casting|
+|[SNAP](https://github.com/JujuAdams/SNAP)<br>Struct and array export/import and utilities|[YAILSE](https://github.com/JujuAdams/YAILSE)<br>Best-in-class 2D shadow casting|
 |[Reddit](https://github.com/JujuAdams/reddit-OAuth2) / [Twitter](https://github.com/JujuAdams/Twitter-OAuth1.0a) / [YouTube](https://github.com/JujuAdams/YouTube-OAuth2) Integration<br>OAuth frameworks for social networks|[BIG Integers](https://github.com/JujuAdams/BIG)<br>Big integer handling|
 |[HMAC-Secured Savedata](https://github.com/JujuAdams/protect-your-savefiles)<br>Featured on the [YoYoGames tech blog](https://www.yoyogames.com/blog/537/protect-your-savefiles)|[A Message from Amalthea](https://github.com/JujuAdams/meditations)<br>Our entry as the [9th September Meditation](https://meditations.games/)|
 |[gamepad_last](https://github.com/JujuAdams/gamepad_last)<br>Gamepad equivalent of `keyboard_lastkey`|[Wave Simulation](https://github.com/JujuAdams/Wave-Simulation)<br>Simple shader-based wave effect|
