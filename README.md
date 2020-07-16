@@ -2,6 +2,8 @@
 
 You might know me from [my commerical work](http://www.jujuadams.com/) or [one of the talks I gave](https://www.youtube.com/watch?v=Uj7nr6vSRvs), but I spend my free time making libraries to help GameMaker developers. If you'd like a chat, you can find me on [Twitter](https://twitter.com/jujuadams) or in my [Discord server](https://discord.gg/8krYCqr).
 
+&nbsp;
+
 |✨✨✨✨✨✨✨✨✨✨|✨✨✨✨✨✨✨✨✨✨|
 |---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 |[Scribble](https://github.com/JujuAdams/scribble)<br>Powerful, fully featured text renderer|[Input](https://github.com/JujuAdams/input)<br>Unified gamepad/mouse/keyboard input system|
