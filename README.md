@@ -17,6 +17,6 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
 |[dFdx/dFdy/fwidth](https://github.com/JujuAdams/GL_OES_standard_derivatives)<br>GL_OES derivatives for GLSL ES|[gl_FragDepth](https://github.com/JujuAdams/gl_FragDepthEXT)<br>How to enable `gl_FragDepth` in GLSL ES|
 |[Quaternions](https://github.com/JujuAdams/basic-quaternions)<br>Simple quaternion library|[Matrices](https://github.com/JujuAdams/matrices)<br>Common matrix functions|
 |[Shockwaves](https://github.com/JujuAdams/Shockwave)<br>Shader-based distortion effect|[Delaunay Triangulation](https://github.com/JujuAdams/delaunay)<br>Includes pathfinding|
-|[Scramble](https://github.com/JujuAdams/Scramble)<br>Graphics obfuscation tool|awkward empty space|
+|[Scramble](https://github.com/JujuAdams/Scramble)<br>Graphics obfuscation tool|[Vinyl](https://github.com/JujuAdams/vinyl)<br>Audio system|
 
 &nbsp;
