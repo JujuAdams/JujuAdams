@@ -7,7 +7,7 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
 |✨✨✨✨✨✨✨✨✨✨|✨✨✨✨✨✨✨✨✨✨|
 |---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
 |[Scribble](https://github.com/JujuAdams/scribble)<br>Powerful, fully featured text renderer|[Input](https://github.com/JujuAdams/input)<br>Unified gamepad/mouse/keyboard input system|
-|[Chatterbox](https://github.com/JujuAdams/chatterbox)<br>Narrative scripting tool|[Vinyl](https://github.com/JujuAdams/vinyl)<br>Modular audio system|
+|[Chatterbox](https://github.com/JujuAdams/chatterbox)<br>Narrative scripting tool|[Vinyl](https://github.com/JujuAdams/vinyl)<br>Modular audio playback|
 |[dotobj](https://github.com/JujuAdams/dotobj)<br>Comprehensive .obj importer|[DoLater](https://github.com/JujuAdams/DoLater)<br>Deferred function execution|
 |[SNAP](https://github.com/JujuAdams/SNAP)<br>Struct and array export/import and utilities|[LUT](https://github.com/JujuAdams/LUT)<br>Commonly used for colour grading|
 |[Reddit](https://github.com/JujuAdams/reddit-OAuth2) / [Twitter](https://github.com/JujuAdams/Twitter-OAuth1.0a) / [YouTube](https://github.com/JujuAdams/YouTube-OAuth2) Integration<br>OAuth frameworks for social networks|[BIG Integers](https://github.com/JujuAdams/BIG)<br>Big integer handling|
