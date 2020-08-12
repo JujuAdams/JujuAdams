@@ -6,7 +6,7 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
 
 |✨✨✨✨✨✨✨✨✨✨|✨✨✨✨✨✨✨✨✨✨|
 |---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-|[Scribble](https://github.com/JujuAdams/scribble)<br>Powerful, fully featured text renderer|[Input](https://github.com/JujuAdams/input)<br>Unified gamepad/mouse/keyboard input system|
+|[Scribble](https://github.com/JujuAdams/scribble)<br>Powerful, fully featured text renderer|[Input](https://github.com/JujuAdams/input)<br>Comprehensive cross-platform input|
 |[Chatterbox](https://github.com/JujuAdams/chatterbox)<br>Narrative scripting tool|[Vinyl](https://github.com/JujuAdams/vinyl)<br>Modular audio playback|
 |[dotobj](https://github.com/JujuAdams/dotobj)<br>Comprehensive .obj importer|[DoLater](https://github.com/JujuAdams/DoLater)<br>Deferred function execution|
 |[SNAP](https://github.com/JujuAdams/SNAP)<br>Struct and array export/import and utilities|[LUT](https://github.com/JujuAdams/LUT)<br>Commonly used for colour grading|
