@@ -6,10 +6,10 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
 
 |✨✨✨✨✨✨✨✨✨✨|✨✨✨✨✨✨✨✨✨✨|
 |---------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
-|**[Scribble](https://github.com/JujuAdams/scribble)<br>Powerful, fully featured text renderer**|**[Input](https://github.com/JujuAdams/input)<br>Comprehensive cross-platform input**|
-|**[Chatterbox](https://github.com/JujuAdams/chatterbox)<br>Narrative scripting tool**|[Vinyl](https://github.com/JujuAdams/vinyl)<br>Modular audio playback|
+|[Scribble](https://github.com/JujuAdams/scribble)<br>Powerful, fully featured text renderer|[Input](https://github.com/JujuAdams/input)<br>Comprehensive cross-platform input|
+|[Chatterbox](https://github.com/JujuAdams/chatterbox)<br>Narrative scripting tool|[Vinyl](https://github.com/JujuAdams/vinyl)<br>Modular audio playback|
 |[dotobj](https://github.com/JujuAdams/dotobj)<br>Comprehensive .obj importer|[DoLater](https://github.com/JujuAdams/DoLater)<br>Deferred function execution|
-|**[SNAP](https://github.com/JujuAdams/SNAP)<br>Struct and array export/import and utilities**|[LUT](https://github.com/JujuAdams/LUT)<br>Commonly used for colour grading|
+|[SNAP](https://github.com/JujuAdams/SNAP)<br>Struct and array export/import and utilities|[LUT](https://github.com/JujuAdams/LUT)<br>Commonly used for colour grading|
 |[Reddit](https://github.com/JujuAdams/reddit-OAuth2) / [Twitter](https://github.com/JujuAdams/Twitter-OAuth1.0a) / [YouTube](https://github.com/JujuAdams/YouTube-OAuth2) Integration<br>OAuth frameworks for social networks|[BIG Integers](https://github.com/JujuAdams/BIG)<br>Big integer handling|
 |[HMAC-Secured Savedata](https://github.com/JujuAdams/protect-your-savefiles)<br>Featured on the [YoYoGames tech blog](https://www.yoyogames.com/blog/537/protect-your-savefiles)|[A Message from Amalthea](https://github.com/JujuAdams/meditations)<br>Procedural audio toy|
 |[gamepad_last](https://github.com/JujuAdams/gamepad_last)<br>Gamepad equivalent of `keyboard_lastkey`|[Wave Simulation](https://github.com/JujuAdams/Wave-Simulation)<br>Simple shader-based wave effect|
