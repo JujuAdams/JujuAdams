@@ -24,9 +24,7 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
 
 I'm currently working on:
 
-1. Adding some new features to [Scribble](https://github.com/JujuAdams/scribble/)
-2. Check [Blurs](https://github.com/JujuAdams/blurs) isn't broken in 2.3.0
-3. Fixing minor [Scribble](https://github.com/JujuAdams/scribble/) autotype bugs and updating documentation
-4. Fleshing out [Input](https://github.com/JujuAdams/input/)
-5. Phase 2 of development for [Vinyl](https://github.com/JujuAdams/vinyl/)
-6. [Clean Shapes](https://github.com/JujuAdams/Clean-Shapes)
+1. Fixing minor [Scribble](https://github.com/JujuAdams/scribble/) autotype bugs and updating documentation
+2. Fleshing out [Input](https://github.com/JujuAdams/input/)
+3. Phase 2 of development for [Vinyl](https://github.com/JujuAdams/vinyl/)
+4. [Clean Shapes](https://github.com/JujuAdams/Clean-Shapes)
