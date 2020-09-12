@@ -24,7 +24,7 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
 
 I'm currently working on:
 
-1. Improvements to [Scribble](https://github.com/JujuAdams/scribble/), and updating documentation
-2. Fleshing out [Input](https://github.com/JujuAdams/input/)
-3. Phase 2 of development for [Vinyl](https://github.com/JujuAdams/vinyl/)
-4. [Clean Shapes](https://github.com/JujuAdams/Clean-Shapes)
+1. Fleshing out [Input](https://github.com/JujuAdams/input/)
+2. Phase 2 of development for [Vinyl](https://github.com/JujuAdams/vinyl/)
+3. [Clean Shapes](https://github.com/JujuAdams/Clean-Shapes)
+4. Improvements to [Scribble](https://github.com/JujuAdams/scribble/)'s documentation
