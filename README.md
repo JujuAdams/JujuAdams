@@ -28,4 +28,3 @@ I'm currently working on:
 1. Scribble 7
 2. Fleshing out [Input](https://github.com/JujuAdams/input/)
 3. Phase 2 of development for [Vinyl](https://github.com/JujuAdams/vinyl/)
-4. [Clean Shapes](https://github.com/JujuAdams/Clean-Shapes)
