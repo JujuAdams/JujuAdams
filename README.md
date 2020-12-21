@@ -1,6 +1,6 @@
-<h2 align="center">☄️️ I make GameMaker libraries ☄️️</h2>
+<h2 align="center">☄️️ I make libraries ☄️️</h2>
 
-You might know me from [my commerical work](http://www.jujuadams.com/) or [one of the talks I gave](https://www.youtube.com/watch?v=Uj7nr6vSRvs), but I spend my free time making libraries to help GameMaker developers. If you'd like a chat, you can find me on [Twitter](https://twitter.com/jujuadams) or in my [Discord server](https://discord.gg/8krYCqr).
+You might know me from [my commerical work](http://www.jujuadams.com/) or [one of the talks I gave](https://www.youtube.com/watch?v=Uj7nr6vSRvs), but I spend my free time making libraries to help developers. If you'd like a chat, you can find me on [Twitter](https://twitter.com/jujuadams) or in my [Discord server](https://discord.gg/8krYCqr).
 
 &nbsp;
 
@@ -25,6 +25,5 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
 
 I'm currently working on:
 
-1. Scribble 7
-2. Fleshing out [Input](https://github.com/JujuAdams/input/)
-3. Phase 2 of development for [Vinyl](https://github.com/JujuAdams/vinyl/)
+1. Fleshing out [Input](https://github.com/JujuAdams/input/)
+2. Phase 2 of development for [Vinyl](https://github.com/JujuAdams/vinyl/)
