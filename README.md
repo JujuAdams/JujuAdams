@@ -27,3 +27,5 @@ I'm currently working on:
 
 1. Fleshing out [Input](https://github.com/JujuAdams/input/)
 2. Phase 2 of development for [Vinyl](https://github.com/JujuAdams/vinyl/)
+3. Clean Shapes
+4. Bento
