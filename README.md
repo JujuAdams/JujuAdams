@@ -26,6 +26,5 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
 I'm currently working on:
 
 1. Update [Chatterbox](https://github.com/JujuAdams/chatterbox) to v2 of the YarnScript spec
-2. Improve [Bulb](https://github.com/JujuAdams/Bulb) based on dev feedback
-3. Clean Shapes
-4. Bento
+2. Clean Shapes
+3. Bento
