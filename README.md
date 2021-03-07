@@ -26,4 +26,5 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
 I'm currently working on:
 
 1. Clean Shapes
-2. Bento
+2. Bug fixes for Scribble
+3. Bento
