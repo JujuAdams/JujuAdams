@@ -21,6 +21,7 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
 |[dFdx/dFdy/fwidth](https://github.com/JujuAdams/GL_OES_standard_derivatives)<br>GL_OES derivatives for GLSL ES                                                                                                               |[gl_FragDepth](https://github.com/JujuAdams/gl_FragDepthEXT)<br>How to enable `gl_FragDepth` in GLSL ES|
 |[Cottonwool](https://github.com/JujuAdams/Cottonwool)<br>Garbage collected surfaces                                                                                                                                          |[BIG Integers](https://github.com/JujuAdams/BIG)<br>Big integer handling                               |
 |[Reddit](https://github.com/JujuAdams/reddit-OAuth2) / [Twitter](https://github.com/JujuAdams/Twitter-OAuth1.0a) / [YouTube](https://github.com/JujuAdams/YouTube-OAuth2) Integration<br>OAuth frameworks for social networks|[Snitch](https://github.com/JujuAdams/Snitch)<br>Logging and crash handling system                     |
+|[Elephant](https://github.com/JujuAdams/Elephant)<br>Advanced struct/array serialization                                                                                                                                     |Awkward empty space                                                                                    |
 
 &nbsp;
 
