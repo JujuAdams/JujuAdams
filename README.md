@@ -4,19 +4,61 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
 
 &nbsp;
 
-|✨✨✨✨✨✨✨✨✨✨                                                                                                                                                       |✨✨✨✨✨✨✨✨✨✨                                                                              |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-|[Scribble](https://github.com/JujuAdams/scribble)<br>Powerful, fully featured text renderer                                                                                     |[Input](https://github.com/JujuAdams/input)<br>Comprehensive cross-platform input                      |
-|[Vinyl](https://github.com/JujuAdams/Vinyl)<br>Live updating modular audio system                                                                                               |[Chatterbox](https://github.com/JujuAdams/chatterbox)<br>Narrative scripting tool                      |
-|[SNAP](https://github.com/JujuAdams/SNAP)<br>Struct and array export/import and utilities                                                                                       |[Snitch](https://github.com/JujuAdams/Snitch)<br>Logging and crash handling system                     |
-|[Dynamo](https://github.com/JujuAdams/Dynamo)<br>Dynamic data loading                                                                                                           |[iota](https://github.com/JujuAdams/iota)<br>Miniature fixed timestep library                          |
-|[Cardboard](https://github.com/JujuAdams/Cardboard)<br>Z-tilt / isometric 3D rendering                                                                                          |[Bulb](https://github.com/JujuAdams/Bulb)<br>2D lighting and shadows                                   |
-|[Elephant](https://github.com/JujuAdams/Elephant)<br>Advanced struct/array serialization                                                                                        |[Texan](https://github.com/JujuAdams/Texan)<br>Texture group manager                                   |
-|[Shockwaves](https://github.com/JujuAdams/Shockwave)<br>Shader-based distortion effect                                                                                          |[Kawase Blur](https://github.com/JujuAdams/Kawase)<br>Kawase dual filter blur example                  |
-|[LUT](https://github.com/JujuAdams/LUT)<br>Commonly used for colour grading                                                                                                     |[A Message from Amalthea](https://github.com/JujuAdams/meditations)<br>Procedural audio toy            |
-|[Clean Shapes](https://github.com/JujuAdams/Clean-Shapes)<br>Antialiased primitive drawing                                                                                      |[dotobj](https://github.com/JujuAdams/dotobj)<br>Comprehensive .obj importer                           |
-|[Quaternions](https://github.com/JujuAdams/basic-quaternions)<br>Simple quaternion library                                                                                      |[Matrices](https://github.com/JujuAdams/matrices)<br>Common matrix functions                           |
-|[BIG Integers](https://github.com/JujuAdams/BIG)<br>Big integer handling                                                                                                        |[DoLater](https://github.com/JujuAdams/DoLater)<br>`call_later` but with arguments                     |
-|[HMAC-Secured Savedata](https://github.com/JujuAdams/protect-your-savefiles)<br>Featured on the [YoYoGames tech blog](https://www.yoyogames.com/blog/537/protect-your-savefiles)|[Coroutines](https://github.com/JujuAdams/Coroutines)<br>Asynchronous functions for GameMaker          |
-|[Reddit](https://github.com/JujuAdams/reddit-OAuth2) / [YouTube](https://github.com/JujuAdams/YouTube-OAuth2) Integration<br>OAuth frameworks for social networks               |[Google Analytics](https://github.com/JujuAdams/GoogleAnalytics4)<br>Google's Measurement Protocol v4  |
-|[dFdx/dFdy/fwidth](https://github.com/JujuAdams/GL_OES_standard_,brderivatives)<br>GL_OES derivatives for GLSL ES                                                               |[gl_FragDepth](https://github.com/JujuAdams/gl_FragDepthEXT)<br>How to enable `gl_FragDepth` in GLSL ES|
+<table align="center">
+    <tr>
+        <td><a href="https://github.com/JujuAdams/scribble">Scribble</a><br>Powerful, fully featured text renderer</td>
+        <td><a href="https://github.com/JujuAdams/input">Input</a><br>Comprehensive cross-platform input</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JujuAdams/Vinyl">Vinyl</a><br>Live updating modular audio system</td>
+        <td><a href="https://github.com/JujuAdams/chatterbox">Chatterbox</a><br>Narrative scripting tool</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JujuAdams/SNAP">SNAP</a><br>Struct and array export/import and utilities</td>
+        <td><a href="https://github.com/JujuAdams/Snitch">Snitch</a><br>Logging and crash handling system</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JujuAdams/Dynamo">Dynamo</a><br>Dynamic data loading</td>
+        <td><a href="https://github.com/JujuAdams/iota">iota</a><br>Miniature fixed timestep library</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JujuAdams/Cardboard">Cardboard</a><br>Z-tilt / isometric 3D rendering</td>
+        <td><a href="https://github.com/JujuAdams/Bulb">Bulb</a><br>2D lighting and shadows</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JujuAdams/Elephant">Elephant</a><br>Advanced struct/array serialization</td>
+        <td><a href="https://github.com/JujuAdams/Texan">Texan</a><br>Texture group manager</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JujuAdams/Shockwaves">Shockwaves</a><br>Advanced struct/array serialization</td>
+        <td><a href="https://github.com/JujuAdams/Kawase">Kawase Blur</a><br>Kawase dual filter blur example</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JujuAdams/LUT">LUT</a><br>Commonly used for colour grading</td>
+        <td><a href="https://github.com/JujuAdams/meditations">A Message from Amalthea</a><br>Procedural audio toy</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JujuAdams/Clean-Shapes">Clean Shapes</a><br>Antialiased primitive drawing</td>
+        <td><a href="https://github.com/JujuAdams/dotobj">dotobj</a><br>Comprehensive .obj importer</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JujuAdams/basic-quaternions">Quaternions</a><br>Simple quaternion library</td>
+        <td><a href="https://github.com/JujuAdams/matrices">Matrices</a><br>Common matrix functions</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JujuAdams/BIG">BIG Integers</a><br>Big integer handling</td>
+        <td><a href="https://github.com/JujuAdams/DoLater">DoLater</a><br><code>call_later</code> but with arguments</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JujuAdams/protect-your-savefiles">HMAC-Secured Savedata</a><br>Featured on the <a href="https://www.yoyogames.com/blog/537/protect-your-savefiles">YoYoGames tech blog</a></td>
+        <td><a href="https://github.com/JujuAdams/Coroutines">Coroutines</a><br>Asynchronous functions for GameMaker</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JujuAdams/reddit-OAuth2">Reddit</a> / <a href="https://github.com/JujuAdams/YouTube-OAuth2">YouTube</a><br>OAuth frameworks for social networks/td>
+        <td><a href="https://github.com/JujuAdams/GoogleAnalytics4">Google Analytics</a><br>Google's Measurement Protocol v4</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JujuAdams/GL_OES_standard_derivatives">dFdx/dFdy/fwidth</a><br>GL_OES derivatives for GLSL ES</td>
+        <td><a href="https://github.com/JujuAdams/gl_FragDepthEXT">gl_FragDepth</a><br>How to enable <code>gl_FragDepth</code> in GLSL ES/td>
+    </tr>
+</table>
