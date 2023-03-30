@@ -6,20 +6,37 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
 
 <table align="center">
     <tr>
+        <td align="right"><img src="https://raw.githubusercontent.com/JujuAdams/scribble/master/LOGO.png" style="width:120px"></td>
         <td><a href="https://github.com/JujuAdams/scribble">Scribble</a><br>Powerful, fully featured text renderer</td>
+    </tr>
+    <tr>
+        <td align="right"><img src="https://raw.githubusercontent.com/JujuAdams/input/master/LOGO.png" style="width:120px"></td>
         <td><a href="https://github.com/JujuAdams/input">Input</a><br>Comprehensive cross-platform input</td>
     </tr>
     <tr>
+        <td align="right"><img src="https://raw.githubusercontent.com/JujuAdams/Vinyl/master/LOGO.png" style="width:120px"></td>
         <td><a href="https://github.com/JujuAdams/Vinyl">Vinyl</a><br>Live updating modular audio system</td>
+    </tr>
+    <tr>
+        <td align="right"><img src="https://raw.githubusercontent.com/JujuAdams/chatterbox/master/LOGO.png" style="width:120px"></td>
         <td><a href="https://github.com/JujuAdams/chatterbox">Chatterbox</a><br>Narrative scripting tool</td>
     </tr>
+    <tr>
+        <td align="right"><img src="https://raw.githubusercontent.com/JujuAdams/Dynamo/master/LOGO.png" style="width:120px"></td>
+        <td><a href="https://github.com/JujuAdams/Dynamo">Dynamo</a><br>Dynamic data loading</td>
+    </tr>
+</table>
+
+&nbsp;
+
+<table align="center">
     <tr>
         <td><a href="https://github.com/JujuAdams/SNAP">SNAP</a><br>Struct and array export/import and utilities</td>
         <td><a href="https://github.com/JujuAdams/Snitch">Snitch</a><br>Logging and crash handling system</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/JujuAdams/Dynamo">Dynamo</a><br>Dynamic data loading</td>
         <td><a href="https://github.com/JujuAdams/iota">iota</a><br>Miniature fixed timestep library</td>
+        <td><a href="https://github.com/JujuAdams/BIG">BIG Integers</a><br>Big integer handling</td>
     </tr>
     <tr>
         <td><a href="https://github.com/JujuAdams/Cardboard">Cardboard</a><br>Z-tilt / isometric 3D rendering</td>
@@ -46,12 +63,12 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
         <td><a href="https://github.com/JujuAdams/matrices">Matrices</a><br>Common matrix functions</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/JujuAdams/BIG">BIG Integers</a><br>Big integer handling</td>
+        <td><a href="https://github.com/JujuAdams/Coroutines">Coroutines</a><br>Asynchronous functions for GameMaker</td>
         <td><a href="https://github.com/JujuAdams/DoLater">DoLater</a><br><code>call_later</code> but with arguments</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/JujuAdams/Sphinx">Sphinx</a><br>Simple encryption</td>
         <td><a href="https://github.com/JujuAdams/protect-your-savefiles">HMAC-Secured Savedata</a><br>Featured on the <a href="https://www.yoyogames.com/blog/537/protect-your-savefiles">YoYoGames tech blog</a></td>
-        <td><a href="https://github.com/JujuAdams/Coroutines">Coroutines</a><br>Asynchronous functions for GameMaker</td>
     </tr>
     <tr>
         <td><a href="https://github.com/JujuAdams/reddit-OAuth2">Reddit</a> / <a href="https://github.com/JujuAdams/YouTube-OAuth2">YouTube</a><br>OAuth frameworks for social networks/td>
