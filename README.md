@@ -76,6 +76,6 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
     </tr>
     <tr>
         <td><a href="https://github.com/JujuAdams/GL_OES_standard_derivatives">dFdx/dFdy/fwidth</a><br>GL_OES derivatives for GLSL ES</td>
-        <td><a href="https://github.com/JujuAdams/gl_FragDepthEXT">gl_FragDepth</a><br>How to enable <code>gl_FragDepth</code> in GLSL ES/td>
+        <td><a href="https://github.com/JujuAdams/gl_FragDepthEXT">gl_FragDepth</a><br>How to enable <code>gl_FragDepth</code> in GLSL ES</td>
     </tr>
 </table>
