@@ -6,7 +6,7 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
 
 <table align="center">
     <tr>
-        <td align="right"><img src="https://raw.githubusercontent.com/JujuAdams/scribble/master/LOGO.png" style="width:120px"></td>
+        <td align="right"><a href="https://github.com/JujuAdams/scribble" target="_blank"><img src="https://raw.githubusercontent.com/JujuAdams/scribble/master/LOGO.png" style="width:120px"></a></td>
         <td><a href="https://github.com/JujuAdams/scribble">Scribble</a><br>Powerful, fully featured text renderer</td>
     </tr>
     <tr>
