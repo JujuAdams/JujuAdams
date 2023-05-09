@@ -1,6 +1,4 @@
-<h2 align="center">☄️️ I make libraries ☄️️</h2>
-
-You might know me from [my commerical work](http://www.jujuadams.com/) or [one of the talks I gave](https://www.youtube.com/watch?v=Uj7nr6vSRvs), but I spend my free time making libraries to help developers. If you'd like a chat, you can find me in my [Discord server](https://discord.gg/8krYCqr).
+You might know me from [my commerical work](http://www.jujuadams.com/) or [one of the talks I gave](https://www.youtube.com/watch?v=Uj7nr6vSRvs), but I spend my free time making libraries to help developers.
 
 &nbsp;
 
