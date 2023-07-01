@@ -23,6 +23,10 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
         <td align="right"><a href="https://github.com/JujuAdams/Dynamo"><img src="https://raw.githubusercontent.com/JujuAdams/Dynamo/master/LOGO.png" style="width:120px"></a></td>
         <td><a href="https://github.com/JujuAdams/Dynamo">Dynamo</a><br>Dynamic data loading</td>
     </tr>
+    <tr>
+        <td align="right"><a href="https://github.com/JujuAdams/db"><img src="https://raw.githubusercontent.com/JujuAdams/db/master/LOGO.png" style="width:120px"></a></td>
+        <td><a href="https://github.com/JujuAdams/db">db</a><br>Simple savedata database</td>
+    </tr>
 </table>
 
 &nbsp;
@@ -34,7 +38,7 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
     </tr>
     <tr>
         <td><a href="https://github.com/JujuAdams/iota">iota</a><br>Miniature fixed timestep library</td>
-        <td><a href="https://github.com/JujuAdams/db">db</a><br>Simple savedata database</td>
+        <td><a href="https://github.com/JujuAdams/Splat">Splat</a><br>Vertex buffer-based sprite caching</td>
     </tr>
     <tr>
         <td><a href="https://github.com/JujuAdams/Cardboard">Cardboard</a><br>Z-tilt / isometric 3D rendering</td>
@@ -75,9 +79,5 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
     <tr>
         <td><a href="https://github.com/JujuAdams/gl_FragDepthEXT">gl_FragDepth</a><br>How to enable <code>gl_FragDepth</code> in GLSL ES</td>
         <td><a href="https://github.com/JujuAdams/BIG">BIG Integers</a><br>Big integer handling</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/JujuAdams/Splat">Splat</a><br>Vertex buffer-based sprite caching</td>
-        <td>Awkward empty space</td>
     </tr>
 </table>
