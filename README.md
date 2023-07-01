@@ -12,6 +12,10 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
         <td><a href="https://github.com/JujuAdams/input">Input</a><br>Comprehensive cross-platform input</td>
     </tr>
     <tr>
+        <td align="right"><a href="https://github.com/JujuAdams/SNAP"><img src="https://raw.githubusercontent.com/JujuAdams/SNAP/master/LOGO.png" style="width:120px"></a></td>
+        <td><a href="https://github.com/JujuAdams/SNAP">SNAP</a><br>Struct and array export/import and utilities</td>
+    </tr>
+    <tr>
         <td align="right"><a href="https://github.com/JujuAdams/Vinyl"><img src="https://raw.githubusercontent.com/JujuAdams/Vinyl/master/LOGO.png" style="width:120px"></a></td>
         <td><a href="https://github.com/JujuAdams/Vinyl">Vinyl</a><br>Live updating modular audio system</td>
     </tr>
@@ -33,12 +37,8 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
 
 <table align="center">
     <tr>
-        <td><a href="https://github.com/JujuAdams/SNAP">SNAP</a><br>Struct and array export/import and utilities</td>
         <td><a href="https://github.com/JujuAdams/Snitch">Snitch</a><br>Logging and crash handling system</td>
-    </tr>
-    <tr>
         <td><a href="https://github.com/JujuAdams/iota">iota</a><br>Miniature fixed timestep library</td>
-        <td><a href="https://github.com/JujuAdams/Splat">Splat</a><br>Vertex buffer-based sprite caching</td>
     </tr>
     <tr>
         <td><a href="https://github.com/JujuAdams/Cardboard">Cardboard</a><br>Z-tilt / isometric 3D rendering</td>
@@ -79,5 +79,9 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
     <tr>
         <td><a href="https://github.com/JujuAdams/gl_FragDepthEXT">gl_FragDepth</a><br>How to enable <code>gl_FragDepth</code> in GLSL ES</td>
         <td><a href="https://github.com/JujuAdams/BIG">BIG Integers</a><br>Big integer handling</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JujuAdams/Splat">Splat</a><br>Vertex buffer-based sprite caching</td>
+        <td>Awkward empty space</td>
     </tr>
 </table>
