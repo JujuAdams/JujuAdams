@@ -16,16 +16,16 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
         <td><a href="https://github.com/JujuAdams/Vinyl">Vinyl</a><br>Live updating modular audio system</td>
     </tr>
     <tr>
+        <td align="right"><a href="https://github.com/JujuAdams/db"><img src="https://raw.githubusercontent.com/JujuAdams/db/master/LOGO.png" style="width:120px"></a></td>
+        <td><a href="https://github.com/JujuAdams/db">db</a><br>Simple savedata database</td>
+    </tr>
+    <tr>
         <td align="right"><a href="https://github.com/JujuAdams/chatterbox"><img src="https://raw.githubusercontent.com/JujuAdams/chatterbox/master/LOGO.png" style="width:120px"></a></td>
         <td><a href="https://github.com/JujuAdams/chatterbox">Chatterbox</a><br>Narrative scripting tool</td>
     </tr>
     <tr>
         <td align="right"><a href="https://github.com/JujuAdams/Dynamo"><img src="https://raw.githubusercontent.com/JujuAdams/Dynamo/master/LOGO.png" style="width:120px"></a></td>
         <td><a href="https://github.com/JujuAdams/Dynamo">Dynamo</a><br>Dynamic data loading</td>
-    </tr>
-    <tr>
-        <td align="right"><a href="https://github.com/JujuAdams/db"><img src="https://raw.githubusercontent.com/JujuAdams/db/master/LOGO.png" style="width:120px"></a></td>
-        <td><a href="https://github.com/JujuAdams/db">db</a><br>Simple savedata database</td>
     </tr>
 </table>
 
