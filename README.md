@@ -31,15 +31,19 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
         <td align="right"><a href="https://github.com/JujuAdams/Dynamo"><img src="https://raw.githubusercontent.com/JujuAdams/Dynamo/master/LOGO.png" style="width:120px"></a></td>
         <td><a href="https://github.com/JujuAdams/Dynamo">Dynamo</a><br>Dynamic data loading</td>
     </tr>
+    <tr>
+        <td align="right"><a href="https://github.com/JujuAdams/Snitch"><img src="https://raw.githubusercontent.com/JujuAdams/Snitch/master/LOGO.png" style="width:120px"></a></td>
+        <td><a href="https://github.com/JujuAdams/Snitch">Snitch</a><br>Logging and crash handling system</td>
+    </tr>
+    <tr>
+        <td align="right"><a href="https://github.com/JujuAdams/iota"><img src="https://raw.githubusercontent.com/JujuAdams/iota/master/LOGO.png" style="width:120px"></a></td>
+        <td><a href="https://github.com/JujuAdams/iota">iota</a><br>Miniature fixed timestep library</td>
+    </tr>
 </table>
 
 &nbsp;
 
 <table align="center">
-    <tr>
-        <td><a href="https://github.com/JujuAdams/Snitch">Snitch</a><br>Logging and crash handling system</td>
-        <td><a href="https://github.com/JujuAdams/iota">iota</a><br>Miniature fixed timestep library</td>
-    </tr>
     <tr>
         <td><a href="https://github.com/JujuAdams/Cardboard">Cardboard</a><br>Z-tilt / isometric 3D rendering</td>
         <td><a href="https://github.com/JujuAdams/Bulb">Bulb</a><br>2D lighting and shadows</td>
