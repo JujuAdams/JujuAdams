@@ -6,32 +6,24 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
     <tr>
         <td align="right"><a href="https://github.com/JujuAdams/scribble"><img src="https://raw.githubusercontent.com/JujuAdams/scribble/master/LOGO.png" style="width:120px"></a></td>
         <td><a href="https://github.com/JujuAdams/scribble">Scribble</a><br>Powerful, fully featured text renderer</td>
-    </tr>
-    <tr>
         <td align="right"><a href="https://github.com/JujuAdams/input"><img src="https://raw.githubusercontent.com/JujuAdams/input/master/LOGO.png" style="width:120px"></a></td>
         <td><a href="https://github.com/JujuAdams/input">Input</a><br>Comprehensive cross-platform input</td>
     </tr>
     <tr>
         <td align="right"><a href="https://github.com/JujuAdams/SNAP"><img src="https://raw.githubusercontent.com/JujuAdams/SNAP/master/LOGO.png" style="width:120px"></a></td>
         <td><a href="https://github.com/JujuAdams/SNAP">SNAP</a><br>Struct and array export/import and utilities</td>
-    </tr>
-    <tr>
         <td align="right"><a href="https://github.com/JujuAdams/Vinyl"><img src="https://raw.githubusercontent.com/JujuAdams/Vinyl/master/LOGO.png" style="width:120px"></a></td>
         <td><a href="https://github.com/JujuAdams/Vinyl">Vinyl</a><br>Live updating modular audio system</td>
     </tr>
     <tr>
         <td align="right"><a href="https://github.com/JujuAdams/db"><img src="https://raw.githubusercontent.com/JujuAdams/db/master/LOGO.png" style="width:120px"></a></td>
         <td><a href="https://github.com/JujuAdams/db">db</a><br>Simple savedata database</td>
-    </tr>
-    <tr>
         <td align="right"><a href="https://github.com/JujuAdams/chatterbox"><img src="https://raw.githubusercontent.com/JujuAdams/chatterbox/master/LOGO.png" style="width:120px"></a></td>
         <td><a href="https://github.com/JujuAdams/chatterbox">Chatterbox</a><br>Narrative scripting tool</td>
     </tr>
     <tr>
         <td align="right"><a href="https://github.com/JujuAdams/Dynamo"><img src="https://raw.githubusercontent.com/JujuAdams/Dynamo/master/LOGO.png" style="width:120px"></a></td>
         <td><a href="https://github.com/JujuAdams/Dynamo">Dynamo</a><br>Dynamic data loading</td>
-    </tr>
-    <tr>
         <td align="right"><a href="https://github.com/JujuAdams/Snitch"><img src="https://raw.githubusercontent.com/JujuAdams/Snitch/master/LOGO.png" style="width:120px"></a></td>
         <td><a href="https://github.com/JujuAdams/Snitch">Snitch</a><br>Logging and crash handling system</td>
     </tr>
