@@ -30,6 +30,8 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
     <tr>
         <td align="right"><a href="https://github.com/JujuAdams/iota"><img src="https://raw.githubusercontent.com/JujuAdams/iota/master/LOGO.png" style="width:120px"></a></td>
         <td><a href="https://github.com/JujuAdams/iota">iota</a><br>Miniature fixed timestep library</td>
+        <td align="right"><a href="https://github.com/JujuAdams/Bulb"><img src="https://raw.githubusercontent.com/JujuAdams/Bulb/master/LOGO.png" style="width:120px"></a></td>
+        <td><a href="https://github.com/JujuAdams/Bulb">Bulb</a><br>2D lighting and shadows</td>
     </tr>
 </table>
 
@@ -38,7 +40,7 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
 <table align="center">
     <tr>
         <td><a href="https://github.com/JujuAdams/Cardboard">Cardboard</a><br>Z-tilt / isometric 3D rendering</td>
-        <td><a href="https://github.com/JujuAdams/Bulb">Bulb</a><br>2D lighting and shadows</td>
+        <td><a href="https://github.com/JujuAdams/Splat">Splat</a><br>Vertex buffer-based sprite caching</td>
     </tr>
     <tr>
         <td><a href="https://github.com/JujuAdams/Elephant">Elephant</a><br>Advanced struct/array serialization</td>
@@ -75,9 +77,5 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
     <tr>
         <td><a href="https://github.com/JujuAdams/gl_FragDepthEXT">gl_FragDepth</a><br>How to enable <code>gl_FragDepth</code> in GLSL ES</td>
         <td><a href="https://github.com/JujuAdams/BIG">BIG Integers</a><br>Big integer handling</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/JujuAdams/Splat">Splat</a><br>Vertex buffer-based sprite caching</td>
-        <td>Awkward empty space</td>
     </tr>
 </table>
