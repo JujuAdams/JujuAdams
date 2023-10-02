@@ -33,6 +33,12 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
         <td align="right"><a href="https://github.com/JujuAdams/Bulb"><img src="https://raw.githubusercontent.com/JujuAdams/Bulb/master/LOGO.png" style="width:120px"></a></td>
         <td><a href="https://github.com/JujuAdams/Bulb">Bulb</a><br>2D lighting and shadows</td>
     </tr>
+    <tr>
+        <td align="right"><a href="https://github.com/JujuAdams/Texan"><img src="https://raw.githubusercontent.com/JujuAdams/Texan/master/LOGO.png" style="width:120px"></a></td>
+        <td><a href="https://github.com/JujuAdams/Texan">Texan</a><br>Texture group manager</td>
+        <td align="right"><a href="https://github.com/JujuAdams/DoLater"><img src="https://raw.githubusercontent.com/JujuAdams/DoLater/master/LOGO.png" style="width:120px"></a></td>
+        <td><a href="https://github.com/JujuAdams/DoLater">DoLater</a><br><code>call_later</code> but with arguments</td>
+    </tr>
 </table>
 
 &nbsp;
@@ -44,7 +50,7 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
     </tr>
     <tr>
         <td><a href="https://github.com/JujuAdams/Elephant">Elephant</a><br>Advanced struct/array serialization</td>
-        <td><a href="https://github.com/JujuAdams/Texan">Texan</a><br>Texture group manager</td>
+        <td><a href="https://github.com/JujuAdams/Coroutines">Coroutines</a><br>Asynchronous functions for GameMaker</td>
     </tr>
     <tr>
         <td><a href="https://github.com/JujuAdams/Shockwaves">Shockwaves</a><br>Advanced struct/array serialization</td>
@@ -61,10 +67,6 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
     <tr>
         <td><a href="https://github.com/JujuAdams/basic-quaternions">Quaternions</a><br>Simple quaternion library</td>
         <td><a href="https://github.com/JujuAdams/matrices">Matrices</a><br>Common matrix functions</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/JujuAdams/Coroutines">Coroutines</a><br>Asynchronous functions for GameMaker</td>
-        <td><a href="https://github.com/JujuAdams/DoLater">DoLater</a><br><code>call_later</code> but with arguments</td>
     </tr>
     <tr>
         <td><a href="https://github.com/JujuAdams/Sphinx">Sphinx</a><br>Simple encryption</td>
