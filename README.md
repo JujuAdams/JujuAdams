@@ -3,6 +3,9 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
 &nbsp;
 
 <table align="center">
+    <!-- <tr>
+        <td colspan="4" align="center"><a href="https://github.com/JujuAdams/TheJujuverse"><img src="https://raw.githubusercontent.com/JujuAdams/scribble/master/LOGO.png" style="width:120px"></a><br><b><a href="https://github.com/JujuAdams/TheJujuverse">The Jujuverse</a></b><br>Download it all in one place</td>
+    </tr> -->
     <tr>
         <td align="right"><a href="https://github.com/JujuAdams/scribble"><img src="https://raw.githubusercontent.com/JujuAdams/scribble/master/LOGO.png" style="width:120px"></a></td>
         <td><a href="https://github.com/JujuAdams/scribble">Scribble</a><br>Powerful, fully featured text renderer</td>
