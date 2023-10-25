@@ -42,13 +42,19 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
         <td align="right"><a href="https://github.com/JujuAdams/DoLater"><img src="https://raw.githubusercontent.com/JujuAdams/DoLater/master/LOGO.png" style="width:120px"></a></td>
         <td><a href="https://github.com/JujuAdams/DoLater">DoLater</a><br><code>call_later</code> but with arguments</td>
     </tr>
+    <tr>
+        <td align="right"><a href="https://github.com/JujuAdams/Clean-Shapes"><img src="https://raw.githubusercontent.com/JujuAdams/Clean-Shapes/master/LOGO.png" style="width:120px"></a></td>
+        <td><a href="https://github.com/JujuAdams/Clean-Shapes">Clean Shapes</a><br>Antialiased primitive drawing</td>
+        <td align="right"><a href="https://github.com/JujuAdams/Cardboard"><img src="https://raw.githubusercontent.com/JujuAdams/Cardboard/master/LOGO.png" style="width:120px"></a></td>
+        <td><a href="https://github.com/JujuAdams/Cardboard">Cardboard</a><br>Z-tilt / isometric 3D rendering</td>
+    </tr>
 </table>
 
 &nbsp;
 
 <table align="center">
     <tr>
-        <td><a href="https://github.com/JujuAdams/Cardboard">Cardboard</a><br>Z-tilt / isometric 3D rendering</td>
+        <td><a href="https://github.com/JujuAdams/dotobj">dotobj</a><br>Comprehensive .obj importer</td>
         <td><a href="https://github.com/JujuAdams/Splat">Splat</a><br>Vertex buffer-based sprite caching</td>
     </tr>
     <tr>
@@ -62,10 +68,6 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
     <tr>
         <td><a href="https://github.com/JujuAdams/LUT">LUT</a><br>Commonly used for colour grading</td>
         <td><a href="https://github.com/JujuAdams/meditations">A Message from Amalthea</a><br>Procedural audio toy</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/JujuAdams/Clean-Shapes">Clean Shapes</a><br>Antialiased primitive drawing</td>
-        <td><a href="https://github.com/JujuAdams/dotobj">dotobj</a><br>Comprehensive .obj importer</td>
     </tr>
     <tr>
         <td><a href="https://github.com/JujuAdams/basic-quaternions">Quaternions</a><br>Simple quaternion library</td>
