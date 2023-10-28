@@ -52,6 +52,8 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
 
 &nbsp;
 
+<p align="center">Other stuff you might like too:</p>
+
 <table align="center">
     <tr>
         <td><a href="https://github.com/JujuAdams/dotobj">dotobj</a><br>Comprehensive .obj importer</td>
