@@ -87,4 +87,8 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
         <td><a href="https://github.com/JujuAdams/gl_FragDepthEXT">gl_FragDepth</a><br>How to enable <code>gl_FragDepth</code> in GLSL ES</td>
         <td><a href="https://github.com/JujuAdams/BIG">BIG Integers</a><br>Big integer handling</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/JujuAdams/Kappa">Kappa</a><br>Basic lockstep solution</td>
+        <td>Awkward empty space</td>
+    </tr>
 </table>
