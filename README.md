@@ -4,7 +4,7 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
 
 <table align="center">
     <tr>
-        <td colspan="4" align="center"><a href="https://github.com/JujuAdams/TheJujuverse"><img src="https://raw.githubusercontent.com/JujuAdams/TheJujuverse/master/LOGO.png" style="height:192px"></a><br><b><a href="https://github.com/JujuAdams/TheJujuverse">The Jujuverse</a></b><br>The most popular libraries, all in one place</td>
+        <td colspan="4" align="center"><a href="https://github.com/JujuAdams/TheJujuverse"><img src="https://raw.githubusercontent.com/JujuAdams/TheJujuverse/master/LOGO.png" style="height:210px"></a><br><b><a href="https://github.com/JujuAdams/TheJujuverse">The Jujuverse</a></b><br>The most popular libraries, all in one place</td>
     </tr>
     <tr>
         <td align="right"><a href="https://github.com/JujuAdams/scribble"><img src="https://raw.githubusercontent.com/JujuAdams/scribble/master/LOGO.png" style="width:120px"></a></td>
