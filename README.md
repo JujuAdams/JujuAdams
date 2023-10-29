@@ -89,6 +89,6 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
     </tr>
     <tr>
         <td><a href="https://github.com/JujuAdams/Kappa">Kappa</a><br>Basic lockstep solution</td>
-        <td>Awkward empty space</td>
+        <td><a href="https://github.com/JujuAdams/PRNG-Functions">PRNG</a><br>PRNG functions</td>
     </tr>
 </table>
