@@ -65,7 +65,7 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
     </tr>
     <tr>
         <td><a href="https://github.com/JujuAdams/Shockwaves">Shockwaves</a><br>Advanced struct/array serialization</td>
-        <td><a href="https://github.com/JujuAdams/Kawase">Kawase Blur</a><br>Kawase dual filter blur example</td>
+        <td><a href="https://github.com/JujuAdams/Kawase">Kawase Blur</a><br>Kawase dual filter blur</td>
     </tr>
     <tr>
         <td><a href="https://github.com/JujuAdams/LUT">LUT</a><br>Commonly used for colour grading</td>
