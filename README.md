@@ -64,7 +64,7 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
         <td><a href="https://github.com/JujuAdams/Coroutines">Coroutines</a><br>Asynchronous functions for GameMaker</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/JujuAdams/Shockwaves">Shockwaves</a><br>Advanced struct/array serialization</td>
+        <td><a href="https://github.com/JujuAdams/Shockwave">Shockwaves</a><br>Shader-based ripple distortion</td>
         <td><a href="https://github.com/JujuAdams/Kawase">Kawase Blur</a><br>Kawase dual filter blur</td>
     </tr>
     <tr>
