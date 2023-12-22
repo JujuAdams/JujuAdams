@@ -73,7 +73,7 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
     </tr>
     <tr>
         <td><a href="https://github.com/JujuAdams/basic-quaternions">Quaternions</a><br>Simple quaternion library</td>
-        <td><a href="https://github.com/JujuAdams/matrices">Matrices</a><br>Common matrix functions</td>
+        <td><a href="https://github.com/JujuAdams/matrices">Matrices</a><br>Matrix manipulation functions</td>
     </tr>
     <tr>
         <td><a href="https://github.com/JujuAdams/Sphinx">Sphinx</a><br>Simple encryption</td>
@@ -94,9 +94,5 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
     <tr>
         <td><a href="https://github.com/JujuAdams/ExtendingJSON">Extending JSON</a><br>Experimental JSON-like data formats</td>
         <td><a href="https://github.com/JujuAdams/Ugg">Ugg</a><br>3D primitives</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/JujuAdams/Matrices">Matrices</a><br>Matrix manipulation functions</td>
-        <td>Awkward empty space</td>
     </tr>
 </table>
