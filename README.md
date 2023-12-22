@@ -93,6 +93,6 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
     </tr>
     <tr>
         <td><a href="https://github.com/JujuAdams/ExtendingJSON">Extending JSON</a><br>Experimental JSON-like data formats</td>
-        <td>Awkward empty space</td>
+        <td><a href="https://github.com/JujuAdams/Ugg">Ugg</a><br>3D primitives</td>
     </tr>
 </table>
