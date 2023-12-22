@@ -95,4 +95,8 @@ You might know me from [my commerical work](http://www.jujuadams.com/) or [one o
         <td><a href="https://github.com/JujuAdams/ExtendingJSON">Extending JSON</a><br>Experimental JSON-like data formats</td>
         <td><a href="https://github.com/JujuAdams/Ugg">Ugg</a><br>3D primitives</td>
     </tr>
+    <tr>
+        <td><a href="https://github.com/JujuAdams/Matrices">Matrices</a><br>Matrix manipulation functions</td>
+        <td>Awkward empty space</td>
+    </tr>
 </table>
