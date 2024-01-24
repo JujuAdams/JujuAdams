@@ -90,11 +90,11 @@ GML is something of a quirky language and has led me to evolve particular techni
         <td><a href="https://github.com/JujuAdams/BIG">BIG Integers</a><br>Big integer handling</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/JujuAdams/Kappa">Kappa</a><br>Basic lockstep solution</td>
+        <td><a href="https://github.com/JujuAdams/ExtendingJSON">Extending JSON</a><br>Experimental JSON-like data formats</td>
         <td><a href="https://github.com/JujuAdams/PRNG-Functions">PRNG</a><br>PRNG functions</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/JujuAdams/ExtendingJSON">Extending JSON</a><br>Experimental JSON-like data formats</td>
         <td><a href="https://github.com/JujuAdams/Ugg">Ugg</a><br>3D primitives</td>
+        <td>Awkward empty space</td>
     </tr>
 </table>
