@@ -10,19 +10,19 @@ GML is something of a quirky language and has led me to evolve particular techni
     </tr>
     <tr>
         <td align="right"><a href="https://github.com/JujuAdams/scribble"><img src="https://raw.githubusercontent.com/JujuAdams/scribble/master/LOGO.png" style="width:120px"></a></td>
-        <td><a href="https://github.com/JujuAdams/scribble">Scribble</a><br>Powerful, fully featured text renderer</td>
+        <td><a href="https://github.com/JujuAdams/scribble">Scribble Deluxe</a><br>Powerful, fully featured text renderer</td>
         <td align="right"><a href="https://github.com/JujuAdams/input"><img src="https://raw.githubusercontent.com/JujuAdams/input/master/LOGO.png" style="width:120px"></a></td>
         <td><a href="https://github.com/JujuAdams/input">Input</a><br>Comprehensive cross-platform input</td>
     </tr>
     <tr>
-        <td align="right"><a href="https://github.com/JujuAdams/SNAP"><img src="https://raw.githubusercontent.com/JujuAdams/SNAP/master/LOGO.png" style="width:120px"></a></td>
-        <td><a href="https://github.com/JujuAdams/SNAP">SNAP</a><br>Struct and array export/import and utilities</td>
+        <td align="right"><a href="https://github.com/JujuAdams/ScribbleJunior"><img src="https://raw.githubusercontent.com/JujuAdams/ScribbleJunior/master/LOGO.png" style="width:120px"></a></td>
+        <td><a href="https://github.com/JujuAdams/ScribbleJunior">Scribble Jr.</a><br>Fast and lightweight text renderer</td>
         <td align="right"><a href="https://github.com/JujuAdams/Vinyl"><img src="https://raw.githubusercontent.com/JujuAdams/Vinyl/master/LOGO.png" style="width:120px"></a></td>
         <td><a href="https://github.com/JujuAdams/Vinyl">Vinyl</a><br>Live updating modular audio system</td>
     </tr>
     <tr>
-        <td align="right"><a href="https://github.com/JujuAdams/db"><img src="https://raw.githubusercontent.com/JujuAdams/db/master/LOGO.png" style="width:120px"></a></td>
-        <td><a href="https://github.com/JujuAdams/db">db</a><br>Simple savedata database</td>
+        <td align="right"><a href="https://github.com/JujuAdams/SNAP"><img src="https://raw.githubusercontent.com/JujuAdams/SNAP/master/LOGO.png" style="width:120px"></a></td>
+        <td><a href="https://github.com/JujuAdams/SNAP">SNAP</a><br>Struct and array export/import and utilities</td>
         <td align="right"><a href="https://github.com/JujuAdams/chatterbox"><img src="https://raw.githubusercontent.com/JujuAdams/chatterbox/master/LOGO.png" style="width:120px"></a></td>
         <td><a href="https://github.com/JujuAdams/chatterbox">Chatterbox</a><br>Narrative scripting tool</td>
     </tr>
@@ -47,8 +47,10 @@ GML is something of a quirky language and has led me to evolve particular techni
     <tr>
         <td align="right"><a href="https://github.com/JujuAdams/Clean-Shapes"><img src="https://raw.githubusercontent.com/JujuAdams/Clean-Shapes/master/LOGO.png" style="width:120px"></a></td>
         <td><a href="https://github.com/JujuAdams/Clean-Shapes">Clean Shapes</a><br>Antialiased primitive drawing</td>
-        <td align="right"><a href="https://github.com/JujuAdams/Cardboard"><img src="https://raw.githubusercontent.com/JujuAdams/Cardboard/master/LOGO.png" style="width:120px"></a></td>
-        <td><a href="https://github.com/JujuAdams/Cardboard">Cardboard</a><br>Z-tilt / isometric 3D rendering</td>
+        <td align="right"><a href="https://github.com/JujuAdams/db"><img src="https://raw.githubusercontent.com/JujuAdams/db/master/LOGO.png" style="width:120px"></a></td>
+        <td><a href="https://github.com/JujuAdams/db">db</a><br>Simple savedata database</td>
+        <!-- <td align="right"><a href="https://github.com/JujuAdams/Cardboard"><img src="https://raw.githubusercontent.com/JujuAdams/Cardboard/master/LOGO.png" style="width:120px"></a></td>
+        <td><a href="https://github.com/JujuAdams/Cardboard">Cardboard</a><br>Z-tilt / isometric 3D rendering</td> -->
     </tr>
 </table>
 
@@ -59,7 +61,7 @@ GML is something of a quirky language and has led me to evolve particular techni
 <table align="center">
     <tr>
         <td><a href="https://github.com/JujuAdams/dotobj">dotobj</a><br>Comprehensive .obj importer</td>
-        <td><a href="https://github.com/JujuAdams/Splat">Splat</a><br>Vertex buffer-based sprite caching</td>
+        <td><a href="https://github.com/JujuAdams/Cardboard">Cardboard</a><br>Z-tilt / isometric 3D rendering</td>
     </tr>
     <tr>
         <td><a href="https://github.com/JujuAdams/Elephant">Elephant</a><br>Advanced struct/array serialization</td>
@@ -95,6 +97,6 @@ GML is something of a quirky language and has led me to evolve particular techni
     </tr>
     <tr>
         <td><a href="https://github.com/JujuAdams/Ugg">Ugg</a><br>3D primitives</td>
-        <td>Awkward empty space</td>
+        <td><a href="https://github.com/JujuAdams/Splat">Splat</a><br>Vertex buffer-based sprite caching</td>
     </tr>
 </table>
