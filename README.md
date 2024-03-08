@@ -84,7 +84,7 @@ GML is something of a quirky language and has led me to evolve particular techni
         <td><a href="https://github.com/JujuAdams/protect-your-savefiles">HMAC-Secured Savedata</a><br>Featured on the <a href="https://www.yoyogames.com/blog/537/protect-your-savefiles">YoYoGames tech blog</a></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/JujuAdams/reddit-OAuth2">Reddit</a> / <a href="https://github.com/JujuAdams/YouTube-OAuth2">YouTube</a><br>OAuth frameworks for social networks/td>
+        <td><a href="https://github.com/JujuAdams/reddit-OAuth2">Reddit</a> / <a href="https://github.com/JujuAdams/YouTube-OAuth2">YouTube</a><br>OAuth frameworks for social networks</td>
         <td><a href="https://github.com/JujuAdams/GoogleAnalytics4">Google Analytics</a><br>Google's Measurement Protocol v4</td>
     </tr>
     <tr>
