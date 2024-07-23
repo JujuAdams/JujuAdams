@@ -10,13 +10,13 @@ GML is something of a quirky language and has led me to evolve particular techni
     </tr>
     <tr>
         <td align="right"><a href="https://github.com/JujuAdams/scribble"><img src="https://raw.githubusercontent.com/JujuAdams/scribble/master/LOGO.png" style="width:120px"></a></td>
-        <td><a href="https://github.com/JujuAdams/scribble">Scribble Deluxe</a><br>Powerful, fully featured text renderer</td>
+        <td><a href="https://github.com/JujuAdams/scribble">Scribble Deluxe</a><br>Powerful, fully featured text renderer<br>Optimised for dynamic text and dialogue</td>
         <td align="right"><a href="https://github.com/offalynne/input"><img src="https://raw.githubusercontent.com/offalynne/input/main/LOGO.png" style="width:120px"></a></td>
         <td><a href="https://github.com/offalynne/input">Input</a><br>Comprehensive cross-platform input<br><b>Now maintained by offalynne</b></td>
     </tr>
     <tr>
         <td align="right"><a href="https://github.com/JujuAdams/ScribbleJunior"><img src="https://raw.githubusercontent.com/JujuAdams/ScribbleJunior/master/LOGO.png" style="width:120px"></a></td>
-        <td><a href="https://github.com/JujuAdams/ScribbleJunior">Scribble Jr.</a><br>Fast and lightweight text renderer</td>
+        <td><a href="https://github.com/JujuAdams/ScribbleJunior">Scribble Jr.</a><br>Fast and lightweight text renderer<br>Optimised for UI text and performance</td>
         <td align="right"><a href="https://github.com/JujuAdams/Vinyl"><img src="https://raw.githubusercontent.com/JujuAdams/Vinyl/master/LOGO.png" style="width:120px"></a></td>
         <td><a href="https://github.com/JujuAdams/Vinyl">Vinyl</a><br>Live updating modular audio system</td>
     </tr>
