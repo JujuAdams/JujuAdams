@@ -61,7 +61,7 @@ GML is something of a quirky language and has led me to evolve particular techni
 <table align="center">
     <tr>
         <td><a href="https://github.com/JujuAdams/dotobj">dotobj</a><br>Comprehensive .obj importer</td>
-        <td><a href="https://github.com/JujuAdams/Cardboard">Cardboard</a><br>Z-tilt / isometric 3D rendering</td>
+        <td><a href="https://github.com/JujuAdams/PRNG-Functions">PRNG</a><br>PRNG functions</td>
     </tr>
     <tr>
         <td><a href="https://github.com/JujuAdams/Elephant">Elephant</a><br>Advanced struct/array serialization</td>
@@ -93,10 +93,6 @@ GML is something of a quirky language and has led me to evolve particular techni
     </tr>
     <tr>
         <td><a href="https://github.com/JujuAdams/ExtendingJSON">Extending JSON</a><br>Experimental JSON-like data formats</td>
-        <td><a href="https://github.com/JujuAdams/PRNG-Functions">PRNG</a><br>PRNG functions</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/JujuAdams/Ugg">Ugg</a><br>3D primitives</td>
         <td><a href="https://github.com/JujuAdams/Splat">Splat</a><br>Vertex buffer-based sprite caching</td>
     </tr>
 </table>
