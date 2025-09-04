@@ -1,4 +1,4 @@
-You might know me from [my commerical work](http://www.jujuadams.com/) but I spend my free time making libraries to help developers.
+You might know me from [my commercial work](http://www.jujuadams.com/) but I spend my free time making libraries to help developers.
 
 GML is something of a quirky language and has led me to evolve particular techniques to establish a personal "best practice". You can read some of my thoughts on the nuances of developing in GameMaker [here](https://github.com/JujuAdams/ThoughtsOnGameMaker).
 
