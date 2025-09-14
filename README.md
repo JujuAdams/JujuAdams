@@ -57,7 +57,7 @@ GML is something of a quirky language and has led me to evolve particular techni
 
 <table align="center">
     <tr>
-        <td><a href="https://github.com/JujuAdams/dotobj">dotobj</a><br>Comprehensive .obj importer</td>
+        <td><a href="https://github.com/JujuAdams/dotobj">dotobj</a><br>Native .obj importer</td>
         <td><a href="https://github.com/JujuAdams/basic-quaternions">Quaternions</a><br>Simple quaternion library</td>
     </tr>
     <tr>
