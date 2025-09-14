@@ -53,12 +53,27 @@ GML is something of a quirky language and has led me to evolve particular techni
 
 &nbsp;
 
-<p align="center">Other stuff you might like too:</p>
+<p align="center">I have some 3D-specific libraries:</p>
 
 <table align="center">
     <tr>
         <td><a href="https://github.com/JujuAdams/dotobj">dotobj</a><br>Comprehensive .obj importer</td>
+        <td><a href="https://github.com/JujuAdams/basic-quaternions">Quaternions</a><br>Simple quaternion library</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JujuAdams/bonk">Bonk</a><br>3D collisions and collision response</td>
+        <td><a href="https://github.com/JujuAdams/ugg">Ugg</a><br>3D shape drawing</td>
+    </tr>
+</table>
+
+&nbsp;
+
+<p align="center">Other stuff you might like too:</p>
+
+<table align="center">
+    <tr>
         <td><a href="https://github.com/JujuAdams/PRNG-Functions">PRNG</a><br>PRNG functions</td>
+        <td><a href="https://github.com/JujuAdams/matrices">Matrices</a><br>Matrix manipulation functions</td>
     </tr>
     <tr>
         <td><a href="https://github.com/JujuAdams/Elephant">Elephant</a><br>Advanced struct/array serialization</td>
@@ -71,10 +86,6 @@ GML is something of a quirky language and has led me to evolve particular techni
     <tr>
         <td><a href="https://github.com/JujuAdams/LUT">LUT</a><br>Commonly used for colour grading</td>
         <td><a href="https://github.com/JujuAdams/meditations">A Message from Amalthea</a><br>Procedural audio toy</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/JujuAdams/basic-quaternions">Quaternions</a><br>Simple quaternion library</td>
-        <td><a href="https://github.com/JujuAdams/matrices">Matrices</a><br>Matrix manipulation functions</td>
     </tr>
     <tr>
         <td><a href="https://github.com/JujuAdams/Sphinx">Sphinx</a><br>Simple encryption</td>
