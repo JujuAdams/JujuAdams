@@ -2,8 +2,6 @@ You might know me from [my commercial work](http://www.jujuadams.com/) but I spe
 
 GML is something of a quirky language and has led me to evolve particular techniques to establish a personal "best practice". You can read some of my thoughts on the nuances of developing in GameMaker [here](https://github.com/JujuAdams/ThoughtsOnGameMaker).
 
-&nbsp;
-
 <table align="center">
     <tr>
         <td align="right"><a href="https://github.com/JujuAdams/scribble"><img src="https://raw.githubusercontent.com/JujuAdams/scribble/master/LOGO.png" style="width:120px"></a></td>
