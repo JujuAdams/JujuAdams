@@ -163,7 +163,7 @@ GML is something of a quirky language and has led me to evolve particular techni
 
 <table>
     <tr>
-        <td><a href="https://github.com/JujuAdams/Clean-Shapes">VinClean Shapesyl</a></td>
+        <td><a href="https://github.com/JujuAdams/Clean-Shapes">Clean Shapes</a></td>
         <td>Antialiased shape drawing. Has a nice batching mode for efficient rendering</td>
     </tr>
     <tr>
