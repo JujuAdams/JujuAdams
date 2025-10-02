@@ -55,8 +55,6 @@ GML is something of a quirky language and has led me to evolve particular techni
 
 &nbsp;
 
-&nbsp;
-
 <h1 align="center">All The Repos</h1>
 
 ## 3D
