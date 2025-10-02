@@ -234,11 +234,11 @@ GML is something of a quirky language and has led me to evolve particular techni
         <td>Logging and crash handling system. Can interface with sentry.io, GameAnalytics, Bugsnag, or whatever custom service you're using</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/JujuAdams/UnityAnalytics">UnityAnalytics</a></td>
+        <td><a href="https://github.com/JujuAdams/UnityAnalytics">Unity Analytics</a></td>
         <td>Unity Analytics integration. Uses the REST API so should be cross-platform</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/JujuAdams/GoogleAnalytics4">GoogleAnalytics4</a></td>
+        <td><a href="https://github.com/JujuAdams/GoogleAnalytics4">Google Analytics 4</a></td>
         <td>Google Analytics 4 integration. Uses the REST API so should be cross-platform</td>
     </tr>
 </table>
