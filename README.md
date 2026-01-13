@@ -267,6 +267,10 @@ GML is something of a quirky language and has led me to evolve particular techni
         <td>Simple database system that runs JSON underneath</td>
     </tr>
     <tr>
+        <td><a href="https://github.com/JujuAdams/Sparkle-Store">Sparkle Store</a></td>
+        <td>Cross-platform player savedata</td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/JujuAdams/Sphinx">Sphinx</a></td>
         <td>Simple encryption system. Not mega secure but will deter unserious attackers</td>
     </tr>
@@ -364,6 +368,10 @@ GML is something of a quirky language and has led me to evolve particular techni
 ## Other
 
 <table>
+    <tr>
+        <td><a href="https://github.com/JujuAdams/Hotglue">Hotglue</a></td>
+        <td>Package manager for GameMaker 2024.14</td>
+    </tr>
     <tr>
         <td><a href="https://github.com/JujuAdams/painfully-learned-lessons">Painfully Learned Lessons</a></td>
         <td>General advice for using GameMaker</td>
