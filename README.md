@@ -20,6 +20,12 @@ GML is something of a quirky language and has led me to evolve particular techni
         <td><a href="https://github.com/JujuAdams/Vinyl">Vinyl</a><br>Live updating modular audio system</td>
     </tr>
     <tr>
+        <td align="right"><a href="https://github.com/JujuAdams/SparkleStore"><img src="https://raw.githubusercontent.com/JujuAdams/SparkleStore/master/LOGO.png" style="width:120px"></a></td>
+        <td><a href="https://github.com/JujuAdams/SparkleStore">SparkleStore</a><br>Cross-platform file management</td>
+        <td align="right"><a href="https://github.com/JujuAdams/db"><img src="https://raw.githubusercontent.com/JujuAdams/db/master/LOGO.png" style="width:120px"></a></td>
+        <td><a href="https://github.com/JujuAdams/db">db</a><br>Simple JSON-based savedata database</td>
+    </tr>
+    <tr>
         <td align="right"><a href="https://github.com/JujuAdams/SNAP"><img src="https://raw.githubusercontent.com/JujuAdams/SNAP/master/LOGO.png" style="width:120px"></a></td>
         <td><a href="https://github.com/JujuAdams/SNAP">SNAP</a><br>Struct and array export/import and utilities</td>
         <td align="right"><a href="https://github.com/JujuAdams/chatterbox"><img src="https://raw.githubusercontent.com/JujuAdams/chatterbox/master/LOGO.png" style="width:120px"></a></td>
@@ -38,16 +44,10 @@ GML is something of a quirky language and has led me to evolve particular techni
         <td><a href="https://github.com/JujuAdams/Bulb">Bulb</a><br>2D lighting and shadows</td>
     </tr>
     <tr>
-        <td align="right"><a href="https://github.com/JujuAdams/Texan"><img src="https://raw.githubusercontent.com/JujuAdams/Texan/master/LOGO.png" style="width:120px"></a></td>
-        <td><a href="https://github.com/JujuAdams/Texan">Texan</a><br>Texture group manager</td>
-        <td align="right"><a href="https://github.com/JujuAdams/DoLater"><img src="https://raw.githubusercontent.com/JujuAdams/DoLater/master/LOGO.png" style="width:120px"></a></td>
-        <td><a href="https://github.com/JujuAdams/DoLater">DoLater</a><br><code>call_later</code> but with arguments</td>
-    </tr>
-    <tr>
         <td align="right"><a href="https://github.com/JujuAdams/Clean-Shapes"><img src="https://raw.githubusercontent.com/JujuAdams/Clean-Shapes/master/LOGO.png" style="width:120px"></a></td>
         <td><a href="https://github.com/JujuAdams/Clean-Shapes">Clean Shapes</a><br>Antialiased primitive drawing</td>
-        <td align="right"><a href="https://github.com/JujuAdams/db"><img src="https://raw.githubusercontent.com/JujuAdams/db/master/LOGO.png" style="width:120px"></a></td>
-        <td><a href="https://github.com/JujuAdams/db">db</a><br>Simple savedata database</td>
+        <td align="right"><a href="https://github.com/JujuAdams/DoLater"><img src="https://raw.githubusercontent.com/JujuAdams/DoLater/master/LOGO.png" style="width:120px"></a></td>
+        <td><a href="https://github.com/JujuAdams/DoLater">DoLater</a><br><code>call_later</code> but with arguments</td>
         <!-- <td align="right"><a href="https://github.com/JujuAdams/Cardboard"><img src="https://raw.githubusercontent.com/JujuAdams/Cardboard/master/LOGO.png" style="width:120px"></a></td>
         <td><a href="https://github.com/JujuAdams/Cardboard">Cardboard</a><br>Z-tilt / isometric 3D rendering</td> -->
     </tr>
