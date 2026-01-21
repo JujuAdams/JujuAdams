@@ -238,7 +238,7 @@ GML is something of a quirky language and has led me to evolve particular techni
         <td>Unity Analytics integration. Uses the REST API so should be cross-platform</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/JujuAdams/GoogleAnalytics4">Google Analytics 4</a></td>
+        <td><a href="https://github.com/JujuAdams/GoogleAnalytics4">Google Analytics&nbsp;4</a></td>
         <td>Google Analytics 4 integration. Uses the REST API so should be cross-platform</td>
     </tr>
     <tr>
