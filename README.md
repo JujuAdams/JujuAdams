@@ -347,6 +347,10 @@ GML is something of a quirky language and has led me to evolve particular techni
         <td>Better <code>call_later()</code></td>
     </tr>
     <tr>
+        <td><a href="https://github.com/JujuAdams/Promise.gml">Promise.gml</a></td>
+        <td>JS Promises for GameMaker, after work by <a href="https://github.com/YAL-GameMaker/Promise.gml">YellowAfterlife</a></td>
+    </tr>
+    <tr>
         <td><a href="https://github.com/JujuAdams/Coroutines">Coroutines</a></td>
         <td>Asynchronous code execution. Useful for cutscenes</td>
     </tr>
