@@ -110,7 +110,7 @@ GML is something of a quirky language and has led me to evolve particular techni
         <td>Localization experiment. Probably not suitable for serious use</td>
     </tr>
     <tr>
-        <td><a href="https://github.com/JujuAdams/ScreenName">ScreenName</a></td>
+        <td><a href="https://github.com/JujuAdams/Moniker">Moniker</a></td>
         <td>Arbitrary, internationalized player name rendering</td>
     </tr>
     <tr>
