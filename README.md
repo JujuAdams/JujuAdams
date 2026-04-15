@@ -161,6 +161,27 @@ GML is something of a quirky language and has led me to evolve particular techni
     </tr>
 </table>
 
+## Cross-platform
+
+<table>
+    <tr>
+        <td><a href="https://github.com/JujuAdams/Sus">Sus</a></td>
+        <td><b>S</b>ingle <b>u</b>ser <b>s</b>ystem for single-player games</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JujuAdams/Allchievements">Allchievements</a></td>
+        <td>Basic achivements wrapper for cross-platform games</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JujuAdams/Podium">Podium</a></td>
+        <td>Shared API for native leaderboard systems</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JujuAdams/Moniker">Moniker</a></td>
+        <td>Arbitrary, internationalized player name rendering</td>
+    </tr>
+</table>
+
 ## Graphics
 
 <table>
