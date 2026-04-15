@@ -144,23 +144,6 @@ GML is something of a quirky language and has led me to evolve particular techni
     </tr>
 </table>
 
-## Audio
-
-<table>
-    <tr>
-        <td><a href="https://github.com/JujuAdams/Vinyl">Vinyl</a></td>
-        <td>Multi-purposes sound playback. Supports live mixing</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/JujuAdams/BorkBork">BorkBork</a></td>
-        <td>Advanced audio emitters. Supports lots of different shapes including boxes, lines, and polygons</td>
-    </tr>
-    <tr>
-        <td><a href="https://github.com/JujuAdams/WaveformView">Waveform View</a></td>
-        <td>Audio waveform viewer. That's all! Might be useful for games where the player can import their own music</td>
-    </tr>
-</table>
-
 ## Cross-platform
 
 <table>
@@ -248,6 +231,23 @@ GML is something of a quirky language and has led me to evolve particular techni
     <tr>
         <td><a href="https://github.com/JujuAdams/gl_FragDepthEXT">gl_FragDepthEXT</a></td>
         <td>Simple example of gl_FragDepthEXT use</td>
+    </tr>
+</table>
+
+## Audio
+
+<table>
+    <tr>
+        <td><a href="https://github.com/JujuAdams/Vinyl">Vinyl</a></td>
+        <td>Multi-purposes sound playback. Supports live mixing</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JujuAdams/BorkBork">BorkBork</a></td>
+        <td>Advanced audio emitters. Supports lots of different shapes including boxes, lines, and polygons</td>
+    </tr>
+    <tr>
+        <td><a href="https://github.com/JujuAdams/WaveformView">Waveform View</a></td>
+        <td>Audio waveform viewer. That's all! Might be useful for games where the player can import their own music</td>
     </tr>
 </table>
 
